@@ -1,4 +1,4 @@
-# coffee-shop
+# Coffee-shop
 This site is a modern and user-friendly website designed for a Coffee-Shop. The site is enriched with sections such as menu, products, reviews, blogs and contact. 
 
 # Screen Gif
